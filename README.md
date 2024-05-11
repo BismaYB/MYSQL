@@ -47,5 +47,5 @@ Attributes: Return_Id, Return_cust, Return_book_name, Return_date, Isbn_book2 (f
 11. Retrieve the names of employees who manage branches and their respective branch addresses.
 12.  Display the names of customers who have issued books with a rental price higher than Rs. 25.
 
- ### Ansewrs screenshot and mysql file is attached with repository please check
+ ### Answer screenshot and mysql file is attached with repository please check
 
